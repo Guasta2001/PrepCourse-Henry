@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repo de prueba del modulo 2 del PrepCourse de Henry
+Este repo es una prueba de como crear un repositorio de prueba en github
